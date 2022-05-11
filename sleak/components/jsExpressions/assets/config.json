@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Component",
+        "path": "../compiler/Component",
+        "isBlock": true
+    },
+    {
+        "name": "use",
+        "path": "../compiler/use",
+        "isBlock": false,
+        "loader": true
+    },
+    {
+        "name": "import",
+        "path": "../compiler/import",
+        "isBlock": false,
+        "loader": true
+    },
+    {
+        "name": "include",
+        "path": "../compiler/include",
+        "isBlock": false,
+        "loader": true
+    },
+    {
+        "name": "condition",
+        "path": "../compiler/Conditionals",
+        "isBlock": true
+    },
+    {
+        "name": "if",
+        "path": "../compiler/Conditionals",
+        "isBlock": true
+    },
+    {
+        "name": "else",
+        "path": "../compiler/Conditionals",
+        "isBlock": true
+    },
+    {
+        "name": "else if",
+        "path": "../compiler/Conditionals",
+        "isBlock": true
+    },
+    {
+        "name": "each",
+        "path": "../compiler/loops",
+        "isBlock": true,
+        "loader": true
+    },
+    {
+        "name": "for",
+        "path": "../compiler/loops",
+        "isBlock": true
+    },
+    {
+        "name": "content",
+        "path": "../compiler/Component",
+        "isBlock": false
+    },
+    {
+        "name": "while",
+        "path": "../compiler/loops",
+        "isBlock": true
+    }
+]

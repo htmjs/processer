@@ -1,0 +1,41 @@
+{
+    "keywords": [
+        {
+            "name": "each",
+            "block": true
+        },
+        {
+            "name": "content",
+            "block": false
+        },
+        {
+            "name": "use",
+            "block": false
+        },
+        {
+            "name": "if",
+            "block": true
+        },
+        {
+            "name": "else",
+            "block": true
+        },
+        {
+            "name": "Component",
+            "block": true
+        },
+        {
+            "name": "include",
+            "block": false
+        },
+        {
+            "name": "import",
+            "block": false
+        }
+    ],
+    "programChars": ["<%", "{{", "}}", "%>", "{{/", "<%%", "%%>"],
+    "specialChars": ["<", "{"],
+    "compilerOptions": {
+        "path": "/"
+    }
+}
